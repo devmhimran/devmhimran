@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [PostHub](https://github.com/devmhimran/cms-blog-redux)
+- 🔭 I’m currently working on [Nedu Ai](https://nedu.ai/en)
 
 - 🌱 I’m currently learning **React Redux, Next JS**
 
