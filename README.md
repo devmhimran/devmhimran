@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahmud.bubt.150@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/mahmud-resume](https://cutt.ly/mahmud-resume)
+- 📄 Know about my experiences [https://www.devmhimran.com/mahmud-hasan-imran-resume.pdf](https://www.devmhimran.com/mahmud-hasan-imran-resume.pdf)
 
 - ⚡ Fun fact **I think I'm funny & lazy**
 
