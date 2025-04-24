@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nedu Ai](https://nedu.ai/en)
 
-- 🌱 I’m currently learning **React Redux, Next JS**
+- 🌱 I’m currently learning **Express, Angular**
 
 - 👨‍💻 All of my projects are available at [https://www.devmhimran.com/](https://www.devmhimran.com/)
 
